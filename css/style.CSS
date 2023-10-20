@@ -1,0 +1,79 @@
+body{
+background-color: rgba(0, 0, 0, 0.601);
+margin: 0px;
+font-family: 'Roboto', sans-serif;
+
+}
+#cabecalho{
+background-color: white;
+height: 90px;
+display: flex;
+align-items: center;
+
+}
+#logo{
+margin-left: 20px;
+margin-right: 50px;
+font-weight: bold;
+font-size: 25px;
+
+}
+
+#cabecalho a{
+text-decoration: none;
+margin-left: 10px;
+color: black;
+font-size: 15px;
+font-weight: 600;
+padding: 6px 7px;
+border-radius: 20px;
+}
+
+#cabecalho a:hover{
+transition: 0.2s;
+color: white;
+background-color: black;
+}
+
+#lupa,#login{
+font-size: 25px;
+margin-left: 25px;
+}
+
+#cabecalho2{
+background-color: black;
+height: 58px;
+display: flex;
+align-items: center;
+}
+
+
+.logo{
+    color: white;
+    margin-left: 20px;
+    margin-right: 580px;
+    font-size: 18px;}
+
+
+#cabecalho2 a{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.767);
+  margin-right: 25px;
+}
+#cabecalho2 a:hover{
+transition: 0.2s;
+color: white;
+}
+
+#contatar{
+  background-color: rgba(255, 255, 255, 0.341);
+  padding: 6px 10px;
+  border-radius: 20px;
+  font-weight:500;
+  
+}
+img{
+    height: 720px;
+}
+
+
